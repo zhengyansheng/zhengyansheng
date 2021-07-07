@@ -1,17 +1,4 @@
-### Hi there, I'm [zhengyansheng](http://www.aiops724.com) 👋
-
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/zhengyansheng/zhengyansheng/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/zhengyansheng/zhengyansheng/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/zhengyansheng/zhengyansheng/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br /> 
+### Hi there, I'm [zhengyansheng](http://www.aiops724.com) 👋 
 
 <a href="https://github.com/zhengyansheng/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
