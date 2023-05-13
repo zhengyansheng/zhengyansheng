@@ -23,9 +23,8 @@
 [7. kubernetes kube-proxy源码刨析]  
 
 ### 云原生生态系列视频
-[1. argo-workflow 流水线打包系统]  
+[1. argo-workflow Pipeline 系统]  
 
 ### ChatGPT
 [1. Copilot 助力代码提效](https://www.bilibili.com/video/BV1a24y1M7Y1/?spm_id_from=333.999.0.0)  
-[2. ChatGPT]  
 
