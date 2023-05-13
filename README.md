@@ -27,4 +27,5 @@
 
 ### ChatGPT
 [1. Copilot 助力代码提效](https://www.bilibili.com/video/BV1a24y1M7Y1/?spm_id_from=333.999.0.0)  
+[2. ChatGPT]  
 
