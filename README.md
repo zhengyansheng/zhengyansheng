@@ -17,10 +17,11 @@
 [2. kubernetes 强大的工具包Wait和Retry](https://www.bilibili.com/video/BV16k4y1j7ZV/?spm_id_from=333.999.0.0)    
 [3.1 kubernetes Leader Election 上](https://www.bilibili.com/video/BV1FX4y1m7xS/?spm_id_from=333.999.0.0)  
 [3.2 kubernetes Leader Election 下](https://www.bilibili.com/video/BV1pz4y187HJ/?spm_id_from=333.999.0.0)   
-[4. kubernetes controller-manager源码刨析]  
-[5. kubernetes kubelet源码刨析]  
-[6. kubernetes api-server源码刨析]  
-[7. kubernetes kube-proxy源码刨析]  
+[5. kubernetes WorkQueue 上] 
+[6. kubernetes controller-manager源码刨析]  
+[7. kubernetes kubelet源码刨析]  
+[8. kubernetes api-server源码刨析]  
+[9. kubernetes kube-proxy源码刨析]  
 
 ### 云原生生态系列视频
 [1. argo-workflow Pipeline 系统]  
