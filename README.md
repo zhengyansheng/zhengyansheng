@@ -18,7 +18,7 @@
 [3.1 Kubernetes Leader Election 上](https://www.bilibili.com/video/BV1FX4y1m7xS/?spm_id_from=333.999.0.0)  
 [3.2 Kubernetes Leader Election 下](https://www.bilibili.com/video/BV1pz4y187HJ/?spm_id_from=333.999.0.0)   
 [4. Kubernetes WorkQueue 上](https://www.bilibili.com/video/BV1Yo4y1G7oe/?spm_id_from=333.999.0.0)   
-[5. Kubernetes controller-manager源码刨析]  
+[5. Kubernetes controller-manager源码刨析](https://edu.51cto.com/course/33979.html)  
 [6. Kubernetes kubelet源码刨析]  
 [7. Kubernetes api-server源码刨析]  
 [8. Kubernetes kube-proxy源码刨析]  
