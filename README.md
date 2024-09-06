@@ -14,7 +14,3 @@
 
 - [kubernetes源码刨析](https://space.bilibili.com/390694664)
 
-
-`kubernetes节点扩缩`  
-- [Cluster AutoScaler](https://github.com/kubernetes/autoscaler)
-- [karpenter](https://github.com/kubernetes-sigs/karpenter)
